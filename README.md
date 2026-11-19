@@ -1,6 +1,6 @@
 # Content-Based Image Retrieval with ResNet-50 & Deep Metric Learning
 
-This assignment implements a content-based image retrieval system in **PyTorch** using a pretrained **ResNet-50** backbone fine-tuned with deep metric learning. It benchmarks three embedding optimization strategies—**Contrastive Loss**, **Triplet Loss**, and **Hard-Negative Mining**—on the Caltech-101 dataset, evaluating retrieval quality via Recall@K and t-SNE feature space visualizations.
+This project implements a content-based image retrieval system in **PyTorch** using a pretrained **ResNet-50** backbone fine-tuned with deep metric learning. It benchmarks three embedding optimization strategies—**Contrastive Loss**, **Triplet Loss**, and **Hard-Negative Mining**—on the Caltech-101 dataset, evaluating retrieval quality via Recall@K and t-SNE feature space visualizations.
 
 
 ---
